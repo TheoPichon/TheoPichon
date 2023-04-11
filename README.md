@@ -146,7 +146,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <div align="center">
   <details>
     <summary>
-      <b>PichCoin</b>
+      <b>🪙 PichCoin</b>
     </summary></br>
    En cours de rédaction
   </details>
@@ -173,7 +173,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <div align="center">
   <details>
     <summary>
-      <b>Mirko Ace</b>
+      <b>👩‍🎨Mirko Ace</b>
     </summary></br>
    En cours de rédaction
   </details>
@@ -182,7 +182,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <div align="center">
   <details>
     <summary>
-      <b>Chloe Hertz</b>
+      <b>🖌 Chloe Hertz</b>
     </summary></br>
    En cours de rédaction
   </details>
@@ -191,7 +191,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <div align="center">
   <details>
     <summary>
-      <b>Le Cabinet Noir</b>
+      <b>♾ Le Cabinet Noir</b>
     </summary></br>
    En cours de rédaction
   </details>
