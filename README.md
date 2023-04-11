@@ -123,12 +123,12 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   </details>
 </div>
 
-## <div align="center">🔥 Projets</div>
+## <div align="center">Projets</div>
 
 <div align="center">
   <details>
     <summary>
-      <b>Flash Tattoo</b>
+      <b>⚡ Flash Tattoo</b>
     </summary></br>
    En cours de rédaction
   </details>
@@ -137,7 +137,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <div align="center">
   <details>
     <summary>
-      <b>Dab</b>
+      <b>💵 Dab</b>
     </summary></br>
    En cours de rédaction
   </details>
