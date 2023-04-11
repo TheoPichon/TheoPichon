@@ -1,8 +1,10 @@
 # <div align="center">Hey ! Je suis Pichovski </div>
 
-<div align="center"><img src="https://github.com/TheoPichon/TheoPichon/blob/main/assets/logo.png" alt="Introduction logo.." style="width: 40rem" /></div></br>
+<div align="center"><img src="https://github.com/TheoPichon/TheoPichon/blob/main/assets/PichonCoin.png" alt="Introduction logo.." style="width: 30rem" /></div></br>
 
-<div align="center">Musicien, Développeur en formation, je suis passionné par la création en général.</div>
+<div align="center">Musicien, Développeur en formation, je suis passionné par la création en général.</div></br>
+
+### <div align="center">[In P We Trust](https://theopichon.github.io/ "titre de lien optionnel")</div></br>
 
 ## <div align="center">Technologies</div>
 
@@ -124,6 +126,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </div>
 
 ## <div align="center">Projets</div>
+
+<div align="center"><img src="https://github.com/TheoPichon/TheoPichon/blob/main/assets/logo.png" alt="Introduction logo.." style="width: 40rem" /></div></br>
 
 <div align="center">
   <details>
