@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey ! Je suis **Pichovski** 👾 !
 
-<!--
-**TheoPichon/TheoPichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Musicien, Développeur en formation, je suis passioné par la création en général. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛ Stack: React, JavaScript from Scratch, PHP, Symfony, MySql, Solidity, Web3.js.
+
+🏗 J'apprends actuellement flutter, Redux, Next.js, Docker.
+
+ J'ai comme projet d'améliorer mes compétences sur les technologies composant le web3, le design et la gestion de projet.
+ 
+ ## Technologies
+ 
+ ### Web
+ 
+ 
+ 
+ 
+ 
+ 
+
