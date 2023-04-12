@@ -16,7 +16,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
 ![ReactNative](https://img.shields.io/badge/ReactNative-02569B.svg?&style=flat&logo=react&logoColor=white) &nbsp;
     
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![Html5](https://img.shields.io/badge/Html-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
@@ -34,8 +34,7 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
     
 ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
-![PlantUml](https://img.shields.io/badge/PlantUml-E10098.svg?&style=flat&logo=PLANTUML&logoColor=white)&nbsp;
+![PlantUml](https://img.shields.io/badge/PlantUml-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
     
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
